@@ -14,7 +14,11 @@
     - create your controllers here.
 
 - ## create following two files
+
   - `touch server.js`
     - Create http server in server.js and pass app instance in createserver function
   - `touch app.js`
     - Create express server in this file and export express instance.
+
+- ## install dependencies of project
+  - `npm install express mongoose cors body-parser http-errors pug`

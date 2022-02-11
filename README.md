@@ -1,13 +1,11 @@
 # learnMongoose
 
-## create following Directories
+- ## create following Directories
 
-- `mkdir routes`
-- `mkdir views`
-- `mkdir controllers`
+  - `mkdir routes`
+  - `mkdir views`
+  - `mkdir controllers`
 
-//create two files
-
-- `touch server.js`
-
-- `touch app.js`
+- ## create following two files
+  - `touch server.js`
+  - `touch app.js`

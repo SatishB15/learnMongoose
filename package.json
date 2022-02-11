@@ -1,0 +1,25 @@
+{
+  "name": "learnmongoose",
+  "version": "1.0.0",
+  "description": "learn everything about mongoose ODM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatishB15/learnMongoose.git"
+  },
+  "keywords": [
+    "Mongoose",
+    "Mongodb",
+    "Express",
+    "Node"
+  ],
+  "author": "satish birhade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SatishB15/learnMongoose/issues"
+  },
+  "homepage": "https://github.com/SatishB15/learnMongoose#readme"
+}

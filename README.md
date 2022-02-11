@@ -2,12 +2,12 @@
 
 ## create following Directories
 
-`mkdir routes`
-`mkdir views`
-mkdir controllers ``
+- `mkdir routes`
+- `mkdir views`
+- `mkdir controllers`
 
 //create two files
 
-`touch server.js`
+- `touch server.js`
 
-`touch app.js`
+- `touch app.js`
